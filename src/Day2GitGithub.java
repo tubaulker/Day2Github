@@ -13,6 +13,7 @@ public class Day2GitGithub {
         git push -u origin master
     Not: Bu iki komutu tek seferde kullandıktan sonra ikinci commitlerim için sadece git push kullanırız.
     Not: git log --oneline -->Commitlerimdeki yani versiyonlarımdaki durumu gösterir.
+    Not: GitHub ogrendim.
      */
     public static void main(String[] args) {
         System.out.println("Github ı da ogrendim");
