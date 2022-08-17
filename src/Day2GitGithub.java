@@ -1,3 +1,5 @@
+package Day2Github.src;
+
 public class Day2GitGithub {
     /*
     1-) git init --> Local repo oluşturmak için yani .git ile klasörümüzün içindeki dosyaları
